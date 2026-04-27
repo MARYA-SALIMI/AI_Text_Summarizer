@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables
+.env
+.env.*
+
+# Database
+*.sqlite3
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Node (React)
+node_modules/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+
+# PostgreSQL (if any dumps)
+*.sql
